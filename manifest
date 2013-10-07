@@ -1,0 +1,18 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 1.0
+apiversion: 2
+description: iOS 7 Motion Effects API
+author: Marcel Pociot
+license: MIT
+copyright: Marcel Pociot
+
+
+# these should not be edited
+name: TiMotionEffects
+moduleid: de.marcelpociot.motioneffects
+guid: c4cecc12-24f2-45d5-80d3-9200022a6ada
+platform: iphone
+minsdk: 3.1.3.GA
